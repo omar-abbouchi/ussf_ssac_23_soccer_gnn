@@ -1,5 +1,7 @@
 ![U.S. Soccer Federation | A Graph Neural Network deep-dive into successful counterattacks](img/header.png)
 
+> 🌀️ **NOTE**: This repository has been extended into an open-source Python package! Check out the [unravelsports](https://github.com/UnravelSports/unravelsports) repository or simply `pip install unravelsports`
+
 > ⚠️ **NOTE**: If you are having trouble automatically loading the data within Jupyter Notebook please find all relevant data files (and the associated paper) in the [Google Drive folder](https://drive.google.com/drive/folders/12F8B-AARr0otiYxE0Rvxbuckf6gjkqvE)
 
 
